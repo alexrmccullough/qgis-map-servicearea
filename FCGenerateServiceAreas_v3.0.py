@@ -1,10 +1,3 @@
-"""
-Model exported as python.
-Name : ModelTest1
-Group : 
-With QGIS : 31603
-"""
-
 import processing
 import gc
 from qgis.core import QgsProcessing
